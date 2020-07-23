@@ -5,7 +5,11 @@ integrated Redux for state management for our React components.
 app will allow users to
 
 Register
+
 log in
+
 Access protected pages only accessible to logged in users
+
 Stay logged in when they close the app or refresh the page
+
 Log out
